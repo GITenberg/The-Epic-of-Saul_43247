@@ -1,0 +1,29 @@
+_repo: The-Epic-of-Saul_43247
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wilkinson, William Cleaver
+    alias: Wilkinson, W. C. (William Cleaver)
+    birthdate: 1833
+    deathdate: 1920
+    gutenberg_agent_id: '25636'
+    url: http://www.gutenberg.org/2009/agents/25636
+    wikipedia: http://en.wikipedia.org/wiki/William_Cleaver_Wilkinson
+description: ''
+gutenberg_issued: '2013-07-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43247'
+  lccn: '31031185'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paul, the Apostle, Saint -- Poetry'
+- !lcc 'PS'
+title: The Epic of Saul
+url: http://www.gutenberg.org/ebooks/43247
